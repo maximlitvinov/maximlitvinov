@@ -1,5 +1,6 @@
 
-<h1 align="center">:wave: Hi there 👋 My name is Maxim Litvinov. I am Middle Developer at 🦄 https://github.com/unicornwitnesses</h1>
+<h1 align="center">:wave: Hi there 👋 My name is Maxim Litvinov. I am Middle Developer at 🦄 https://github.com/unicornwitnesses <img src="https://komarev.com/ghpvc/?username=maximlitvinov&label=People%20visit%20this%20profile&color=blueviolet&style=plastic&label=PROFILE+VIEWS" alt="maximlitvinov github profile visit" /></h1>
+
 
 <p align="center">
   <a href="https://unicornwitnesses.com">
@@ -28,23 +29,24 @@
 - ⚡ Fun fact: I love pizza with pineapples 🍕
     
 ---
-    ---
    
-## Gamification of GitHub 🎰
+## 🎰Gamification of GitHub 
     
 [![trophy](https://github-profile-trophy.vercel.app/?username=maximlitvinov&theme=darkhub&margin-w=15&margin-h=15&no-frame=true&row=1&no-bg=true)](New)
+ 
+---
     
-## Stats📈
+## 📈Stats
     
 <table align="center" cellspacing="0" cellpadding="0" border="0">
    <tr>
     <td>
-      <a href="https://alexdolbun.com" target="_blank">
+      <a href="https://maximlitvinov.me" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=maximlitvinov&show_icons=true&include_all_commits=true&theme=tokyonight">
       <a/>
     </td>
     <td>
-      <a href="https://alexdolbun.com" target="_blank">
+      <a href="https://maximlitvinov.me" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximlitvinov&layout=compact&theme=tokyonight">
       <a/>
     </td>
@@ -56,18 +58,3 @@
     </td>
 </table>
       
-    
-<table align="center" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td>
-      <a href="https://github.com/maximlitvinov">
-        <img src="https://github-readme-stats.vercel.app/api?username=maximlitvinov&show_icons=true&include_all_commits=true&theme=tokyonight">
-      <a/>
-    </td>
-    <td>
-      <a href="https://github.com/maximlitvinov">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximlitvinov&layout=compact&theme=tokyonight">
-      <a/>
-    </td>
-   </tr>
-</table>
